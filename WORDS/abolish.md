@@ -16,6 +16,7 @@
 ### Primary Meaning
 
 **Type:** Verb
+
 **Definition**: To officially end or stop something, especially a system, practice, or institution.
 
 ### Secondary Meanings
