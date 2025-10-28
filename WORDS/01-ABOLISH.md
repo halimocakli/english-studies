@@ -3,8 +3,11 @@
 ## Basic Information
 
 **Word:** abolish
+
 **Pronunciation:** /əˈbɑː.lɪʃ/ (American: /əˈbɑː.lɪʃ/)
+
 **Syllables:** a·bol·ish
+
 
 ---
 
