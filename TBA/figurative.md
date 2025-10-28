@@ -142,5 +142,7 @@ The adjective **figurative** describes **non-literal, symbolic, or imaginative**
 ---
 
 **In short:**
+
 🔹 **English Meaning:** non-literal, symbolic, metaphorical
+
 🔹 **Turkish Meaning:** mecazî, sembolik, soyut anlamda kullanılan
