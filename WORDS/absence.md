@@ -94,6 +94,7 @@ Originally signifying physical “being away,” the term evolved to include fig
 ### 1. **General / Everyday Contexts**
 
 **Description:** Refers to not being present at a place or event.
+
 **Examples:**
 
 - “Her absence was felt during the meeting.”
@@ -102,6 +103,7 @@ Originally signifying physical “being away,” the term evolved to include fig
 ### 2. **Formal / Institutional Contexts**
 
 **Description:** Used in workplaces, schools, or reports.
+
 **Examples:**
 
 - “Unexplained absences may lead to disciplinary action.”
@@ -110,6 +112,7 @@ Originally signifying physical “being away,” the term evolved to include fig
 ### 3. **Abstract or Figurative Contexts**
 
 **Description:** Refers to the lack of something intangible.
+
 **Examples:**
 
 - “The plan failed due to the absence of leadership.”
@@ -118,6 +121,7 @@ Originally signifying physical “being away,” the term evolved to include fig
 ### 4. **Literary / Emotional Contexts**
 
 **Description:** Often used to express emotional or physical distance.
+
 **Examples:**
 
 - “Absence makes the heart grow fonder.”
