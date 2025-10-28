@@ -5,7 +5,9 @@
 ## Basic Information
 
 **Word:** abortion
+
 **Pronunciation:** /əˈbɔːr.ʃən/
+
 **Syllables:** a·bor·tion
 
 ---
@@ -15,6 +17,7 @@
 ### Primary Meaning
 
 **Type:** Noun
+
 **Definition:** The deliberate ending of a pregnancy, usually through a medical procedure that removes the fetus from the womb before it can live independently.
 
 ### Secondary Meanings
@@ -133,5 +136,7 @@ The noun **abortion** originates from Latin _abōrtiō_, meaning “premature bi
 ---
 
 **In summary:**
+
 🔹 **English Meaning:** deliberate termination of a pregnancy; failure or premature ending.
+
 🔹 **Turkish Meaning:** kürtaj; düşük; başarısızlık.
