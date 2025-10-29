@@ -6,6 +6,8 @@
 
 **Pronunciation:** /əˈbɑː.lɪʃ/ (American: /əˈbɑː.lɪʃ/)
 
+**Voiced Pronunciation:** https://www.youtube.com/watch?v=yrO75c2MPGA
+
 **Syllables:** a·bol·ish
 
 
