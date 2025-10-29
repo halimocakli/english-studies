@@ -8,6 +8,8 @@
 
 **Pronunciation:** /ˈæb.sənt/
 
+**Voiced Pronunciation:** [/ˈæb.sənt/](https://www.youtube.com/watch?v=74HIS_k6Yr4)
+
 **Syllables:** ab·sent
 
 ---
