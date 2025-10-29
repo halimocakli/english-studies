@@ -17,6 +17,7 @@
 ### Primary Meaning
 
 **Type:** Adjective
+
 **Definition:** Not present in a place, at an occasion, or as part of something.
 
 ### Secondary Meanings
@@ -50,6 +51,7 @@
 ### Primary Type
 
 **Adjective** (commonly used)
+
 Also functions as a **verb** (formal/literary use).
 
 ### As an Adjective
