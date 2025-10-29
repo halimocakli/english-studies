@@ -5,7 +5,9 @@
 ## Basic Information
 
 **Word:** absorb
+
 **Pronunciation:** /əbˈzɔːrb/ or /əbˈsɔːrb/ (American)
+
 **Syllables:** ab·sorb
 
 **Oxford Level:** B2
