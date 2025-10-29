@@ -8,7 +8,7 @@
 
 **Pronunciation:** /əˈbɔːr.ʃən/
 
-**Voiced Pronunciation:** <a href="https://www.youtube.com/watch?v=JiyTHZLWcL0" target="_blank">/əˈbɔːr.ʃən/</a>
+**Voiced Pronunciation:** [/əˈbɔːr.ʃən/](https://www.youtube.com/watch?v=JiyTHZLWcL0)
 
 **Syllables:** a·bor·tion
 
