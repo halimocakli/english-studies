@@ -5,8 +5,11 @@
 ## Basic Information
 
 **Word:** absurd
+
 **Pronunciation:** /əbˈsɜːrd/ (American)
+
 **Voiced Pronunciation:** https://www.youtube.com/watch?v=xcbFo9wj7K0
+
 **Syllables:** ab·surd
 
 ---
