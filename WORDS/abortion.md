@@ -8,6 +8,8 @@
 
 **Pronunciation:** /əˈbɔːr.ʃən/
 
+**Voiced Pronunciation:** https://bbwww.youtube.com/watch?v=JiyTHZLWcL0
+
 **Syllables:** a·bor·tion
 
 ---
