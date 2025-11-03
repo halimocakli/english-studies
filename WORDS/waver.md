@@ -5,7 +5,9 @@
 ## Basic Information
 
 **Word:** waver
+
 **Pronunciation:** /ˈweɪ.vər/
+
 **Syllables:** wa·ver
 
 ---
@@ -15,6 +17,7 @@
 ### Primary Meaning
 
 **Type:** Verb (intransitive)
+
 **Definition:** To show uncertainty or hesitation; to be indecisive or unsteady in opinion, action, or feeling.
 
 ### Secondary Meanings
@@ -148,4 +151,5 @@ Used metaphorically for fluctuating values or numbers.
 ---
 
 🔹 **English Meaning:** to hesitate, to fluctuate, to tremble, to move unsteadily
+
 🔹 **Turkish Meaning:** tereddüt etmek, bocalamak, kararsız kalmak, titremek, dalgalanmak
