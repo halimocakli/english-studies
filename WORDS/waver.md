@@ -8,6 +8,8 @@
 
 **Pronunciation:** /ˈweɪ.vər/
 
+**Voiced Pronunciation:** [/ˈweɪ.vər/](https://www.youtube.com/watch?v=VAgfgpeAX1A)
+
 **Syllables:** wa·ver
 
 ---
