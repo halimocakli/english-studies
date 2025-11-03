@@ -6,7 +6,9 @@ Linguistic Analysis: FIRMLY
 Basic Information
 
 Word: firmly
+
 Pronunciation: /ˈfɜːrm.li/
+
 Syllables: firm·ly
 
 
@@ -192,5 +194,7 @@ Common in both literal and figurative uses
 ---
 
 In brief:
+
 🔹 English Meaning: securely; resolutely; with strength or determination
+
 🔹 Turkish Meaning: sıkıca; kararlılıkla; sağlamca; kesin olarak
